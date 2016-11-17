@@ -16,8 +16,17 @@ At the top of the file there should be a short introduction and/ or overview tha
 
 ## Code Example
 
-```php
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+```php
+$offload = new OffloadManager(/* ... */);
+
+// Fetch a result and repopulate it if necessary.
+$data = $offload->fetch('task-key', function () {
+
+  // Perform a time consuming task...
+  return $data;
+
+})->getData();
 ```
 
 ## Motivation
