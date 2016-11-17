@@ -1,4 +1,14 @@
-# open-source-template
+# Super Awesome Project
+
+Make your life easier by doing it all for you
+
+[![Build Status](https://travis-ci.org/aol/offload.svg?branch=master)](https://travis-ci.org/aol/offload)
+[![Coverage Status](https://coveralls.io/repos/aol/offload/badge.svg?branch=master&service=github)](https://coveralls.io/github/aol/offload?branch=master)
+[![Code Climate](https://codeclimate.com/github/aol/offload/badges/gpa.svg)](https://codeclimate.com/github/aol/offload)
+[![Latest Stable Version](https://poser.pugx.org/aol/offload/v/stable)](https://packagist.org/packages/aol/offload)
+[![Latest Unstable Version](https://poser.pugx.org/aol/offload/v/unstable)](https://packagist.org/packages/aol/offload)
+
+> See [Shields.io](http://shields.io/) for your own badges, or [Badge Poser](https://poser.pugx.org/) specifically for PHP projects
 
 ## Synopsis
 
@@ -6,7 +16,9 @@ At the top of the file there should be a short introduction and/ or overview tha
 
 ## Code Example
 
+```php
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+```
 
 ## Motivation
 
@@ -26,8 +38,6 @@ Describe and show how to run the tests with code examples.
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable. Also add a link for them to [open an issue][new issue]
 
-## License
 
-A short snippet describing the license (MIT, Apache, etc.)
