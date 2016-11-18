@@ -1,6 +1,8 @@
-# Super Awesome Project ![](https://dl.dropboxusercontent.com/u/71280/AOLBlueMonster.png "Blue Monster")
+# Super Awesome Project
 
 Making your life easier by doing it all for you. :boom:
+
+![](https://dl.dropboxusercontent.com/u/71280/AOLBlueMonster.png "Blue Monster")
 
 [![Build Status](https://travis-ci.org/aol/offload.svg?branch=master)](https://travis-ci.org/aol/offload)
 [![Coverage Status](https://coveralls.io/repos/aol/offload/badge.svg?branch=master&service=github)](https://coveralls.io/github/aol/offload?branch=master)
