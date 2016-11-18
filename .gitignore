@@ -1,3 +1,5 @@
+## You can also use https://www.gitignore.io/ to autogenerate this file for you.
+
 #IDE Files
 .idea
 atlassian-ide-plugin.xml
