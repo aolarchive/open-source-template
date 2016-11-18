@@ -1,6 +1,6 @@
-# Super Awesome Project
+# Super Awesome Project ![](https://dl.dropboxusercontent.com/u/71280/AOLBlueMonster.png "Blue Monster")
 
-Making your life easier by doing it all for you
+Making your life easier by doing it all for you. :boom:
 
 [![Build Status](https://travis-ci.org/aol/offload.svg?branch=master)](https://travis-ci.org/aol/offload)
 [![Coverage Status](https://coveralls.io/repos/aol/offload/badge.svg?branch=master&service=github)](https://coveralls.io/github/aol/offload?branch=master)
@@ -8,7 +8,7 @@ Making your life easier by doing it all for you
 [![Latest Stable Version](https://poser.pugx.org/aol/offload/v/stable)](https://packagist.org/packages/aol/offload)
 [![Latest Unstable Version](https://poser.pugx.org/aol/offload/v/unstable)](https://packagist.org/packages/aol/offload)
 
-> See [Shields.io](http://shields.io/) for your own badges, or [Badge Poser](https://poser.pugx.org/) specifically for PHP projects
+> See [Shields.io](http://shields.io/) for your own badges, or [Badge Poser](https://poser.pugx.org/) for PHP projects
 
 ## Synopsis
 
