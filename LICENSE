@@ -4,5 +4,5 @@ You also need to make sure you reference the correct license type in your app co
 e.g.
   package.json (https://docs.npmjs.com/files/package.json#license)
   composer.json (https://getcomposer.org/doc/04-schema.md#license)
-  https://maven.apache.org/pom.html#Licenses
+  pom.xml (https://maven.apache.org/pom.html#Licenses)
   buil.sbt 
