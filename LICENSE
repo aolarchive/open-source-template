@@ -1,3 +1,8 @@
 Add the license text approved by Legal here.
 
-You also need to make sure you reference the correct license type in your app config files, e.g. package.json (https://docs.npmjs.com/files/package.json#license), composer.json (https://getcomposer.org/doc/04-schema.md#license) or build.sbt file.
+You also need to make sure you reference the correct license type in your app config files.
+e.g.
+  package.json (https://docs.npmjs.com/files/package.json#license)
+  composer.json (https://getcomposer.org/doc/04-schema.md#license)
+  https://maven.apache.org/pom.html#Licenses
+  buil.sbt 
